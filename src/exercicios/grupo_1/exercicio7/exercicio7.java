@@ -7,10 +7,10 @@
     Alterado por: @rafaelfischer
 */
 
-package exercicios.grupo_1.exercicio7;
+package Exercicios.Grupo_1.Exercicio7;
 import java.util.Scanner;
 
-public class exercicio7 {
+public class Exercicio7 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 

@@ -15,10 +15,10 @@
 	Alterado por: @rafaelfischer
 */
 
-package exercicios.grupo_1.exercicio8;
+package Exercicios.Grupo_1.Exercicio8;
 import java.util.Scanner;
 
-public class exercicio8 {
+public class Exercicio8 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
