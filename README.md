@@ -105,7 +105,7 @@ Estrutura de diretórios:
 */
 //inclusao da principal biblioteca para manipulacao de entrada e saida (I/O)
 // caso o arquivo esteja dentro de pastas, use a estrutura dentro do codigo abaixo:
-// package exercicios.grupo_1.exercicio1;
+// package Exercicios.Grupo_1.Exercicio1;
 
 //declaracao da rotina main
 int main() {
@@ -142,3 +142,53 @@ int main() {
 }
 ```
 
+
+=================
+=   Exercicios  =
+=================
+OK  1	 - Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
+OK  2	 - Pergunte um número. Diga se este numero é primo ou não, escrevendo na tela.
+OK  3	 - Pergunte um número. Diga se este numero faz parte da tabuada do 3, escrevendo na tela.
+OK  4	 - Pergunte a data de nascimento e verifique se a data atual é a data de aniversário. Se for, printe a mensagem de Feliz Aniversário, senão printe a mensagem hoje e dia X de Y de ZZZZ.
+OK  5	 - Pergunte um número. Diga se esse número é positivo, negativo ou zero.
+OK  6	 - Pergunte a idade de uma pessoa. Diga se essa pessoa é uma criança (até 12 anos), um adolescente (13 a 17 anos), uma adulta (18 a 59 anos) ou idosa (60 anos ou mais)
+OK  7	 - Pergunte um número de 1 a 7. Diga a qual dia da semana esse número é correspondente (1 = Domingo, 2 = Segunda, ..., 7 =Sábado). Atenção, utilize a estrutura CASE.
+OK  8	 - Pergunte a nota de um aluno (de 0 a 10). Diga se o aluno está reprovado (nota < 5), em recuperação (nota entre 5 e 6.9) ou aprovado (nota ≥ 7)
+OK  9  - Pergunte o número do mês (1 a 12). Diga quantos dias ele tem (ano não bissexto). Atenção, utilize a estrutura CASE.
+OK  10 - Pergunte três números. Diga qual é o maior entre eles. Atenção, utilize a estrutura IF.
+OK  11 - Pergunte uma letra (V, A, B). Diga a cor correspondente (Vermelho, Azul, Branco). Atenção, utilize a estrutura CASE.
+OK  12 - Verificar Idade para Votar: Crie um algoritmo que receba a idade de uma pessoa e informe se ela já pode votar (idade igual ou superior a 16 anos).
+OK  13 - Sinal do Número: Desenvolva um algoritmo que solicite um número e diga se ele é positivo, negativo ou zero.
+OK  14 - Média de Aprovação: Um aluno é aprovado se sua média final for igual ou superior a 7. Peça a nota do aluno e informe se ele foi "Aprovado" ou "Reprovado".
+OK  15 - Maior de Dois Números: Dados dois números inteiros, determine qual deles é o maior ou se são iguais.
+OK  16 - Faixa Etária Simples: Peça a idade de uma pessoa e classifique-a como "Criança" (até 12 anos), "Adolescente" (13 a 17 anos) ou "Adulto" (18 anos ou mais).
+OK  17 - Desconto por Compra: Uma loja oferece 10% de desconto se o valor da compra for superior a R$100,00. Leia o valor da compra e mostre o valor final com ou sem desconto.
+OK  18 - Dia da Semana: Peça um número de 1 a 7 e imprima o nome do dia da semana correspondente (1 para Domingo, 2 para Segunda, etc.). Se o número for inválido, informe.
+OK  19 - Conceito por Nota: Com base na nota de um aluno (0 a 100), atribua um conceito: 
+          90-100: A
+          80-89: B
+          70-79: C
+          60-69: D
+          Abaixo de 60: F
+OK  20 - Acesso ao Sistema: Um sistema requer que a senha tenha no mínimo 6 caracteres. Peça uma senha e informe se ela é "Válida" ou "Inválida".
+OK  21 - Permissão para Dirigir: Uma pessoa pode dirigir se tiver 18 anos ou mais E possuir CNH. Peça a idade e se possui CNH (sim/não) e informe se a pessoa pode ou não dirigir.
+OK  22 - Login com Credenciais: Crie um algoritmo que verifique se um nome de usuário (ex: "admin") E uma senha (ex: "1234") estão corretos para conceder acesso.
+OK  23 - Condição de Crédito: Um cliente pode obter crédito se tiver renda mensal acima de R$2000,00 OU se tiver um bom histórico de crédito (digite "bom" ou "ruim"). Informe se o crédito é "Aprovado" ou "Negado".
+OK  24 - Ano Bissexto: Um ano é bissexto se for divisível por 400 OU se for divisível por 4 E não for divisível por 100. Peça um ano e verifique se ele é bissexto.
+OK  25 - Temperatura Ideal para Atividade: Para praticar um esporte ao ar livre, a temperatura deve estar entre 10°C E 30°C (inclusive). Peça a temperatura e informe se é "Ideal para o esporte" ou "Não ideal".
+OK  26 - Verificar Vogal: Peça um caractere e verifique se ele é uma vogal (a, e, i, o, u), considerando letras maiúsculas e minúsculas. Use o operador OU.
+OK  27 - Número no Intervalo: Verifique se um número inteiro fornecido pelo usuário está entre 1 e 10 (1 e 10 não são contados).
+OK  28 - Exclusão de Desconto: Um desconto de 15% é aplicado, EXCETO se o produto for da categoria "Eletrônicos" E o valor for inferior a R$500. Peça a categoria e o valor, e diga se o desconto se aplica. (Use NÃO ou negue a condição do E)
+OK  29 - Critério de Doação de Sangue: Uma pessoa pode doar sangue se tiver entre 18 E 69 anos E pesar no mínimo 50 kg. Peça idade e peso e informe se a pessoa pode doar.
+OK  30 - Aceitar Convite: Um convite será aceito se a pessoa for "amigo" OU for "familia" E estiver disponível. Peça o tipo de relação e a disponibilidade ("sim"/"não").
+OK  31 - Classificação de Triângulos: Dados três valores que representam os lados de um triângulo, determine:
+        - Se eles formam um triângulo (a soma de dois lados deve ser sempre maior que o terceiro lado).
+        - Se for um triângulo, classifique-o como ""Equilátero"" (todos os lados iguais), ""Isósceles"" (dois lados iguais) ou ""Escaleno"" (todos os lados diferentes)."
+OK  32 - Preço de Passagem Aérea: O preço da passagem aérea depende da classe (econômica, executiva) E se há promoção.
+        - Econômica: R$ 500 (normal), R$ 300 (promoção)
+        - Executiva: R$ 1500 (normal), R$ 1000 (promoção)
+        Peça a classe e se há promoção (""sim""/""não"") e informe o preço.
+OK  33 - Validação de Data: Crie um algoritmo que verifique se uma data (dia, mês, ano) é válida. Considere meses com 30, 31 dias e fevereiro (29 em ano bissexto, 28 nos outros). Não precisa validar anos negativos ou meses fora de 1-12.
+OK  34 - Cálculo de Bônus: Um funcionário recebe bônus se atingir uma meta de vendas (vendas >= 10000) OU se tiver mais de 5 anos de empresa. Se ambas as condições forem verdadeiras, o bônus é dobrado. Peça as vendas e os anos de empresa, e calcule o bônus (bônus base R$500).
+OK  35 - Decisão de Compra Online: Um usuário decide comprar um item online se o preço for menor que R$100 OU se o frete for grátis E o estoque for maior que zero. Peça o preço, se o frete é grátis ("sim"/"não") e a quantidade em estoque, e informe se o usuário irá "Comprar" ou "Não comprar".
+OK  36 - Pergunte o valor de uma compra. Se for maior que R$ 100, aplique 10% de desconto. Caso contrário, não aplique desconto. Atenção, utilize a estrutura IF.
