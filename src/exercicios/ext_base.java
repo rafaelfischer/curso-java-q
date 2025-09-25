@@ -1,7 +1,7 @@
-package exercicios;
+package Exercicios;
 import java.util.Scanner;
 
-public class ext_base {
+public class Ext_base {
 	public static void main(String[] args) throws Exception {
 		//declaring a variable
 		int number = 10; //assignment

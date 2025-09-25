@@ -7,10 +7,10 @@
     Alterado por: @rafaelfischer
 */
 
-package exercicios.grupo_1.exercicio6;
+package Exercicios.Grupo_1.Exercicio6;
 import java.util.Scanner;
 
-public class exercicio6 {
+public class Exercicio6 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		final double PI = 3.14159;
